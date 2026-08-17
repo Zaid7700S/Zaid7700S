@@ -40,8 +40,10 @@ More on my [portfolio](https://zaidarshad.me/projects) with full case studies.
 
 ## GitHub stats
 
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaid7700S&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid7700S&layout=compact&hide_border=true)
+![Zaid's GitHub stats](https://github-readme-stats-eight-psi-16.vercel.app/api?username=Zaid7700S&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only)
+![Zaid's GitHub stats](https://github-readme-stats-eight-psi-16.vercel.app/api?username=Zaid7700S&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)
+![Top languages](https://github-readme-stats-eight-psi-16.vercel.app/api/top-langs/?username=Zaid7700S&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only)
+![Top languages](https://github-readme-stats-eight-psi-16.vercel.app/api/top-langs/?username=Zaid7700S&layout=compact&hide_border=true&theme=default#gh-light-mode-only)
 
 ## Let's connect
 
